@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="textview_text">Welcome  to ALC 4.0</string>
+    <string name="about_text" translatable="false">ABOUT ALC</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="my_name">Michael Adonis</string>
+    <string name="track">Track : Android</string>
+    <string name="country">Country : Nigeria</string>
+    <string name="email">Email : Blakesmike12@gmail.com</string>
+    <string name="phone" translatable="false">Phone : 07083554060</string>
+    <string name="slack">Slack Username : @Michael</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_about_alc">About Alc</string>
+    <string name="title_profile">My Profile</string>
+
+</resources>
